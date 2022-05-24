@@ -1,0 +1,21 @@
+{
+	"name": "twitter-verify-system",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@types/node": "^17.0.10",
+		"@types/react": "^17.0.38",
+		"mongoose": "^6.3.0",
+		"next": "^12.0.8",
+		"twitter-api-v2": "^1.11.2",
+		"typescript": "^4.5.5"
+	}
+}
